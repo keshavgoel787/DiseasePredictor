@@ -1,0 +1,4 @@
+# Additional dependencies for the DiseasePredictor Streamlit front-end
+pandas>=2.0,<3.0
+scikit-learn>=1.0,<2.0
+streamlit>=1.20,<2.0
